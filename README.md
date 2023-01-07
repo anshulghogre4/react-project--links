@@ -7,4 +7,4 @@ Here containing all the reactjs project links
 - [Tic Tac Toe basic](https://github.com/anshulghogre4/React-tic-tac-toe)
 - [Theme toggler](https://github.com/anshulghogre4/theme-toggler-react-practice)
 - [React todo list with context api](https://github.com/anshulghogre4/react-todo-contextapi)
-- - [React todo list with react-redux](https://github.com/anshulghogre4/todo-react-with-redux)
+- [React todo list with react-redux](https://github.com/anshulghogre4/todo-react-with-redux)
